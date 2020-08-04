@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**RamonSSantos/RamonSSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ramon, tenho 24 anos.
+Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência na área de desenvolvimento.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente eu trabalho na área e sou Programador de Computador. Tecnologias que possuo mais conhecimento:
+  ```
+  Front-end: Vue.js, Angular, HTML, CSS, Javascript e Typescript
+  Back-end: Java, Spring Boot, Node.js, MySQL e PostgreSQL
+  ```
+  
+- 🌱 Experências profissionais:
+  ```
+  Analista de Service Desk: Atuei nesta área por 2 anos e 10 meses
+  Instrutor de Informática: Lecionei aulas de informática por 2 anos e adquiri muita experência nesta área
+  ```
+  
+- 👯 Formação: Atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas
+  ```
+  Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT)
+  Atualmente estou engajado em um projeto de chatbot (sendo utilizado o DialogFlow)
+  ```
+  
+- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React/React Native e me aprofundar em serviços de nuvem
+  
+- 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
