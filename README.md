@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Ramon, tenho 24 anos.
+Meu nome é Ramon, tenho 25 anos.
 Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência na área de desenvolvimento.
 
 - 🔭 Atualmente eu trabalho na área e sou Programador de Computador. Tecnologias que possuo mais conhecimento:
@@ -17,8 +17,7 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   
 - 👯 Formação: Atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas
   ```
-  Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT)
-  Atualmente estou engajado em um projeto de chatbot (sendo utilizado o DialogFlow)
+  Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (sendo utilizado o DialogFlow)
   ```
   
 - 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React/React Native e me aprofundar em serviços de nuvem
