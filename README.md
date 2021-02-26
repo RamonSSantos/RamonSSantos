@@ -15,11 +15,11 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   Instrutor de Informática: Lecionei aulas de informática por 2 anos e adquiri muita experência nesta área
   ```
   
-- 👯 Formação: Atualmente estou no último semestre de Análise e Desenvolvimento de Sistemas
+- 👯 Formação: Formado em Análise e Desenvolvimento de Sistemas
   ```
   Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (sendo utilizado o DialogFlow)
   ```
   
-- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React/React Native e me aprofundar em serviços de nuvem
+- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React/React Native, me aprofundar em serviços de nuvem e também em tecnologias utilizadas para criação e gerenciamento de contêineres como Docker e Kubernetes.
   
 - 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
