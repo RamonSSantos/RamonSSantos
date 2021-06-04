@@ -5,7 +5,7 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
 
 - 🔭 Atualmente eu trabalho na área e sou Programador de Computador. Tecnologias que possuo mais conhecimento:
   ```
-  Front-end: Vue.js, Angular, HTML, CSS, Javascript e Typescript
+  Front-end: React.js, Vue.js, Angular, HTML, CSS, Javascript e Typescript
   Back-end: Java, Spring Boot, Node.js, MySQL e PostgreSQL
   ```
   
@@ -20,6 +20,6 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (sendo utilizado o DialogFlow)
   ```
   
-- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React/React Native, me aprofundar em serviços de nuvem e também em tecnologias utilizadas para criação e gerenciamento de contêineres como Docker e Kubernetes.
+- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem e também em tecnologias utilizadas para criação e gerenciamento de contêineres como Docker e Kubernetes.
   
 - 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
