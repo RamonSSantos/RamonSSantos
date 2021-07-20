@@ -1,7 +1,7 @@
 ### Olá 👋
 
 Meu nome é Ramon, tenho 25 anos.
-Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência na área de desenvolvimento.
+Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência na área de desenvolvimento/programação.
 
 - 🔭 Atualmente eu trabalho na área e sou Programador de Computador. Tecnologias que possuo mais conhecimento:
   ```
@@ -11,15 +11,17 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   
 - 🌱 Experências profissionais:
   ```
+  Programador de Computador: Desde jan/2020 até o momento
   Analista de Service Desk: Atuei nesta área por 2 anos e 10 meses
-  Instrutor de Informática: Lecionei aulas de informática por 2 anos e adquiri muita experência nesta área
+  Instrutor de Informática: Lecionei aulas de informática por 2 anos
   ```
   
-- 👯 Formação: Formado em Análise e Desenvolvimento de Sistemas
+- 👯 Formação: Análise e Desenvolvimento de Sistemas
   ```
-  Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (sendo utilizado o DialogFlow)
+  Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (processamento de linguagem natural com DialogFlow)
+  Possui experiência também com Heroku e Amazon RDS (Relational Database Service)
   ```
   
-- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem e também em tecnologias utilizadas para criação e gerenciamento de contêineres como Docker e Kubernetes.
+- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem, em tecnologias utilizadas para criação, gerenciamento de contêineres como Docker/Kubernetes, Inteligência Artificial, Machine Learning e afins.
   
 - 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
