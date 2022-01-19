@@ -17,9 +17,9 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   ```
   
 - 👯 Formação: Pós-Graduação em Ciência de Dados e Inteligência Artificial (em andamento)
--              Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em dez/2020)
--              Técnico em Informática (concluído em dez/2017)
--              
+               Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em dez/2020)
+               Técnico em Informática (concluído em dez/2017)
+           
   ```
   Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (processamento de linguagem natural com DialogFlow)
   Possui experiência também com Heroku e Amazon RDS (Relational Database Service)
