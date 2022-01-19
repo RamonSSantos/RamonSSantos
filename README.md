@@ -28,6 +28,6 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   Possui experiência também com Heroku e Amazon RDS (Relational Database Service)
   ```
   
-- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem, em tecnologias utilizadas para criação, gerenciamento de contêineres como Docker/Kubernetes, Inteligência Artificial, Machine Learning e afins.
+- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem, em tecnologias utilizadas para criação, gerenciamento de contêineres como Docker/Kubernetes, Linux, Inteligência Artificial, Machine Learning e afins.
   
 - 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
