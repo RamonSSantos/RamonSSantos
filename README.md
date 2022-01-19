@@ -16,9 +16,12 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   Instrutor de Informática:  Lecionei aulas de informática por 2 anos
   ```
   
-- 👯 Formação: Pós-Graduação em Ciência de Dados e Inteligência Artificial (em andamento)
-               Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em dez/2020)
-               Técnico em Informática (concluído em dez/2017)
+- 👯 Formação: 
+  ```
+  Pós-Graduação em Ciência de Dados e Inteligência Artificial (em andamento)
+  Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em dez/2020)
+  Técnico em Informática (concluído em dez/2017)
+  ```
            
   ```
   Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (processamento de linguagem natural com DialogFlow)
