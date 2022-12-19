@@ -1,12 +1,15 @@
 ### Olá 👋
 
-Meu nome é Ramon, tenho 26 anos.
+Meu nome é Ramon, tenho 27 anos.
 Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência na área de desenvolvimento/programação.
 
-- 🔭 Atualmente atuo como Programador de Computador. Tecnologias que possuo mais conhecimento:
+- 🔭 Atualmente atuo como Programador de Computador Pleno. Tecnologias que possuo mais conhecimento:
   ```
-  Front-end: React.js, Vue.js, Angular, HTML5, CSS3, Javascript e Typescript
-  Back-end: Java, Spring Boot, Node.js, MySQL e PostgreSQL
+  Front-end: React.js, Vue.js, HTML5, CSS3 e JavaFx
+  Linguagens de Programação: Java, Javascript, Typescript e Python
+  Frameworks/Interpretadores: Spring Boot, Nest.js e Node.js
+  Banco de Dados: MySQL e PostgreSQL
+  Sistemas Operacionais: Windows e Linux
   ```
   
 - 🌱 Experências profissionais:
@@ -18,16 +21,16 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
   
 - 👯 Formação: 
   ```
-  Pós-Graduação em Ciência de Dados e Inteligência Artificial (em andamento)
+  Pós-Graduação em Ciência de Dados e Inteligência Artificial (concluído em set/2022)
   Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em dez/2020)
   Técnico em Informática (concluído em dez/2017)
   ```
            
   ```
-  Na faculdade já desenvolvi projetos que utilizavam Arduíno (IoT) e também chatbot (processamento de linguagem natural com DialogFlow)
+  Na faculdade já desenvolvi projetos com Arduíno (IoT) e também chatbot (processamento de linguagem natural com DialogFlow)
   Possuo experiência também com Heroku e Amazon RDS (Relational Database Service)
   ```
   
-- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem, em tecnologias utilizadas para criação, gerenciamento de contêineres como Docker/Kubernetes, Linux, Inteligência Artificial, Machine Learning e afins.
+- 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem, em tecnologias utilizadas para criação, gerenciamento de contêineres como Docker/Kubernetes, Inteligência Artificial, Machine Learning e afins.
   
 - 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
