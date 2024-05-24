@@ -1,14 +1,14 @@
 ### Olá 👋
 
-Meu nome é Ramon, tenho 27 anos.
-Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência na área de desenvolvimento/programação.
+Meu nome é Ramon, tenho 28 anos.
+Apaixonado por tecnologia! Meu objetivo é ajudar as empresas a alavancar seus negócios por meio de sistemas informatizados seguros e que respeite as regras de negócios que foram definidas.
 
 - 🔭 Atualmente atuo como Programador de Computador Pleno. Tecnologias que possuo mais conhecimento:
   ```
   Front-end: React.js, Vue.js, HTML5, CSS3 e JavaFx
   Linguagens de Programação: Java, Javascript, Typescript e Python
   Frameworks/Interpretadores: Spring Boot, Nest.js e Node.js
-  Banco de Dados: MySQL e PostgreSQL
+  Banco de Dados: MySQL, PostgreSQL e Sybase.
   Sistemas Operacionais: Windows e Linux
   ```
   
@@ -28,7 +28,7 @@ Apaixonado por tecnologia! Meu objetivo é adquirir conhecimento e experiência 
            
   ```
   Na faculdade já desenvolvi projetos com Arduíno (IoT) e também chatbot (processamento de linguagem natural com DialogFlow)
-  Possuo experiência também com Heroku e Amazon RDS (Relational Database Service)
+  Possuo experiência também com Heroku (PaaS) e Amazon RDS (Relational Database Service)
   ```
   
 - 🚀 Próximos desafios: Estudar desenvolvimento Mobile, React Native, me aprofundar em serviços de nuvem, em tecnologias utilizadas para criação, gerenciamento de contêineres como Docker/Kubernetes, Inteligência Artificial, Machine Learning e afins.
