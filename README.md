@@ -1,7 +1,10 @@
 ### Olá 👋
 
-Meu nome é Ramon, tenho 28 anos.
-Apaixonado por tecnologia! Meu objetivo é ajudar as empresas a alavancar seus negócios por meio de sistemas informatizados seguros e que respeite as regras de negócios que foram definidas.
+Olá! Meu nome é Ramon Santos, tenho 30 anos e mais de 11 anos de experiência atuando na área tecnológica.
+Ao longo da minha jornada, tenho ajudado a desenvolver soluções inovadoras que impactaram positivamente empresas e pessoas, sempre com foco em eficiência, acessibilidade e transformação digital.
+
+Meu propósito é claro: usar a tecnologia como ferramenta para impulsionar negócios e facilitar a rotina das pessoas.
+Com honestidade, comprometimento e paixão pelo que faço, estou pronto para entregar o melhor de mim em cada projeto.
 
 - 🔭 Atualmente atuo como Programador de Computador Pleno. Tecnologias que possuo mais conhecimento:
   ```
