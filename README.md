@@ -1,14 +1,14 @@
 ### Olá 👋
 
-Olá! Meu nome é Ramon Santos, tenho 30 anos e mais de 11 anos de experiência atuando na área tecnológica.
-Ao longo da minha jornada, tenho ajudado a desenvolver soluções inovadoras que impactaram positivamente empresas e pessoas, sempre com foco em eficiência, acessibilidade e transformação digital.
+Meu nome é Ramon Santos, tenho 30 anos e mais de 11 anos de experiência na área de tecnologia.
 
-Meu propósito é claro: usar a tecnologia como ferramenta para impulsionar negócios e facilitar a rotina das pessoas.
-Com honestidade, comprometimento e paixão pelo que faço, estou pronto para entregar o melhor de mim em cada projeto.
+Meu propósito é claro: usar a tecnologia para potencializar negócios e facilitar a rotina das pessoas, com honestidade, comprometimento e inovação.
+
+Seja para automatizar processos, criar sites, sistemas sob medida ou desenvolver ferramentas que simplifiquem o seu dia a dia, vou ajudar você a alcançar seus objetivos com segurança e inovação.
 
 - 🔭 Atualmente atuo como Desenvolvedor de Sistemas Pleno. Tecnologias que possuo mais conhecimento:
   ```
-  Front-end: React.js, Vue.js, HTML5, CSS3 e JavaFx
+  Front-end: React.js, HTML5, CSS3 e JavaFx
   Linguagens de Programação: Java, Javascript, Typescript e Python
   Frameworks/Interpretadores: Spring Boot, Nest.js e Node.js
   Banco de Dados: MySQL, PostgreSQL e Sybase.
@@ -24,17 +24,12 @@ Com honestidade, comprometimento e paixão pelo que faço, estou pronto para ent
   
 - 👯 Formação: 
   ```
-  Pós-Graduação em Ciência de Dados e Inteligência Artificial (concluído em set/2022)
   Inglês (básico ao avançado): KNN Idiomas (fev/25 - em andamento)
+  Pós-Graduação em Ciência de Dados e Inteligência Artificial (concluído em set/2022)
   Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído em dez/2020)
   Técnico em Informática (concluído em dez/2017)
   ```
-           
-  ```
-  Na faculdade já desenvolvi projetos com Arduíno (IoT) e também chatbot (processamento de linguagem natural com DialogFlow)
-  Possuo experiência também com Heroku (PaaS) e Amazon RDS (Relational Database Service)
-  ```
   
-- 🚀 Próximos desafios: Inteligência Artificial, Machine Learning, desenvolvimento Mobile, serviços em nuvem e afins.
+- 🚀 Atualmente estou estudando algumas ferramentas para inteligência artificial e automação de processos.
   
 - 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
