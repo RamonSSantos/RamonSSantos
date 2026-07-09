@@ -1,12 +1,33 @@
 ### Olá 👋
 
-Meu nome é Ramon Santos, tenho 30 anos e mais de 11 anos de experiência na área de tecnologia.
+Meu nome é Ramon Santos, atuo como **Product Builder e Agentic AI Builder** com mais de 11 anos de experiência em tecnologia.
+Ajudo empresas a transformar processos manuais em sistemas, automações e agentes de IA capazes de reduzir custos, aumentar produtividade e gerar novas oportunidades de negócio.
+ 
+- Ao longo da minha carreira atuei em:
+```
+Desenvolvimento de sistemas corporativos
+Construção de produtos digitais SaaS
+Automação de processos com IA
+Criação de agentes inteligentes e chatbots
+Integração de sistemas e APIs
+Análise de dados aplicada a decisões estratégicas
+```
+ 
+- Atualmente construo soluções utilizando:
+```
+OpenAI
+n8n
+React
+Node.js
+Java
+Spring Boot
+MCP
+Agentic AI
+```
+ 
+📌 Minha abordagem combina visão de produto, tecnologia e experiência do usuário para criar soluções que geram impacto mensurável.
 
-Meu propósito é claro: usar a tecnologia para potencializar negócios e facilitar a rotina das pessoas, com honestidade, comprometimento e inovação.
-
-Seja para automatizar processos, criar sites, sistemas sob medida ou desenvolver ferramentas que simplifiquem o seu dia a dia, vou ajudar você a alcançar seus objetivos com segurança e inovação.
-
-- 🔭 Atualmente atuo como Desenvolvedor de Sistemas Pleno. Tecnologias que possuo mais conhecimento:
+- 🔭 Tecnologias que mais utilizo atuando como Desenvolvedor de Sistemas Pleno:
   ```
   Front-end: React.js, HTML5, CSS3 e JavaFx
   Linguagens de Programação: Java, Javascript, Typescript e Python
@@ -15,8 +36,9 @@ Seja para automatizar processos, criar sites, sistemas sob medida ou desenvolver
   Sistemas Operacionais: Windows e Linux
   ```
   
-- 🌱 Experências profissionais:
+- 🌱 Experiências profissionais:
   ```
+  Product Builder & Agentic Builder (Freelancer): Desde nov/2025 até o momento
   Programador de Computador: Desde jan/2020 até o momento
   Analista de Service Desk:  Atuei nesta área por 2 anos e 10 meses
   Instrutor de Informática:  Lecionei aulas de informática por 2 anos
@@ -30,6 +52,6 @@ Seja para automatizar processos, criar sites, sistemas sob medida ou desenvolver
   Técnico em Informática (concluído em dez/2017)
   ```
   
-- 🚀 Atualmente estou estudando algumas ferramentas para inteligência artificial e automação de processos.
+- 🚀 Atualmente estou estudando algumas ferramentas de IA, Vibe Coding e automação de processos.
   
 - 📫 Contato: https://br.linkedin.com/in/ramon-ssantos
